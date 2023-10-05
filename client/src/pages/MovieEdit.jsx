@@ -138,7 +138,7 @@ const MovieForm = () => {
           });
           if ((response.status = 200)) {
       
-            navigation('/')
+            navigation('/rr')
           }
         }
       } catch (error) {
